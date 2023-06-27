@@ -1,0 +1,108 @@
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.AssemblyReference.cache
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.SuggestedBindingRedirects.cache
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\MainWindow.g.cs
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\App.g.cs
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks_MarkupCompile.cache
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks_MarkupCompile.lref
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\TMS_Team_BlackHawks.exe.config
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\TMS_Team_BlackHawks.exe
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\TMS_Team_BlackHawks.pdb
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\MainWindow.baml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.g.resources
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.Properties.Resources.resources
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.GenerateResource.cache
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.CoreCompileInputs.cache
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.exe
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.pdb
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Admin.g.cs
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Admin.baml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Buyer.g.cs
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Planner.g.cs
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Buyer.baml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Planner.baml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\TMS_Team_BlackHawks.exe.config
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\TMS_Team_BlackHawks.exe
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\TMS_Team_BlackHawks.pdb
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.AssemblyReference.cache
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.SuggestedBindingRedirects.cache
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Admin.g.cs
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Buyer.g.cs
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\MainWindow.g.cs
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Planner.g.cs
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\App.g.cs
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks_MarkupCompile.cache
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks_MarkupCompile.lref
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Admin.baml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Buyer.baml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\MainWindow.baml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Planner.baml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.g.resources
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.Properties.Resources.resources
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.GenerateResource.cache
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.CoreCompileInputs.cache
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.exe
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.pdb
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\MySqlConnector.dll
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Buffers.dll
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Memory.dll
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\MySqlConnector.xml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Buffers.xml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Memory.xml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.CopyComplete
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Planner login.g.cs
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Planner login.baml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Trip Plan.g.cs
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Trip Plan.baml
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\done.g.cs
+C:\Users\rajdu\source\repos\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\done.baml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\TMS_Team_BlackHawks.exe.config
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\TMS_Team_BlackHawks.exe
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\TMS_Team_BlackHawks.pdb
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\MySqlConnector.dll
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Buffers.dll
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Memory.dll
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\MySqlConnector.xml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Buffers.xml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Memory.xml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.AssemblyReference.cache
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.SuggestedBindingRedirects.cache
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Admin.g.cs
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Buyer.g.cs
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\done.g.cs
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\MainWindow.g.cs
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Planner login.g.cs
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Planner.g.cs
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Trip Plan.g.cs
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\App.g.cs
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks_MarkupCompile.cache
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks_MarkupCompile.lref
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Admin.baml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Buyer.baml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\done.baml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\MainWindow.baml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Planner login.baml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Planner.baml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\Trip Plan.baml
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.g.resources
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.Properties.Resources.resources
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.GenerateResource.cache
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.CoreCompileInputs.cache
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.csproj.CopyComplete
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.exe
+C:\Users\janis\Dropbox\PC\Documents\C_C++\Project SQ\TMS_Team_BlackHawks\TMS_Team_BlackHawks\obj\Debug\TMS_Team_BlackHawks.pdb
